@@ -1,0 +1,8 @@
+{
+  "amecashback": {
+    "component": "HelloWorld"
+  },
+  "discount": {
+    "component": "Discount"
+  }
+}
